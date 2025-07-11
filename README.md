@@ -1,7 +1,7 @@
 my name is...
 
 
-20232073 	SeoRim!
+SeoRim 20232073
 Kookmin Univ. SW.
 
 today is last class
